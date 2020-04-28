@@ -312,6 +312,7 @@ ca
 ca.
 circa
 cookie
+cookies
 d.h
 da
 dabei
@@ -357,6 +358,8 @@ darueberhinaus
 darum
 darunter
 das
+daß
+dass
 daß
 dasselbe
 Dat
@@ -539,6 +542,7 @@ einst
 einstmals
 einzelnen
 einzig
+e-mail
 empfunden
 ende
 entgegen

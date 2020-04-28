@@ -7,7 +7,12 @@ abgerufene
 abgerufener
 abgerufenes
 abgesehen
+ach
 acht
+achte
+achten
+achter
+achtes
 aehnlich
 aehnliche
 aehnlichem
@@ -25,6 +30,7 @@ aeusserstem
 aeussersten
 aeusserster
 aeusserstes
+ag
 ähnlich
 ähnliche
 ähnlichem
@@ -216,6 +222,7 @@ beides
 beim
 beinahe
 beisammen
+beispiel
 beispielsweise
 beitragen
 beitrugen
@@ -244,6 +251,7 @@ besserer
 besseres
 bestehen
 besteht
+besten
 bestenfalls
 bestimmt
 bestimmte
@@ -358,8 +366,8 @@ darueberhinaus
 darum
 darunter
 das
-daß
-dass
+dasein
+daselbst
 daß
 dasselbe
 Dat
@@ -375,6 +383,7 @@ deinen
 deiner
 deines
 dem
+dementsprechend
 demgegenüber
 demgegenueber
 demgemaess
@@ -405,6 +414,7 @@ deren
 derer
 derjenige
 derjenigen
+dermassen
 derselbe
 derselben
 derzeit
@@ -457,6 +467,9 @@ drei
 dreißig
 drin
 dritte
+dritten
+dritter
+drittes
 drüber
 drueber
 drum
@@ -472,6 +485,7 @@ durchaus
 durchweg
 durchwegs
 dürfen
+dürft
 durfte
 dürfte
 durften
@@ -492,6 +506,8 @@ ehestem
 ehesten
 ehester
 ehestes
+ehrlich
+ei
 eigen
 eigene
 eigenem
@@ -506,6 +522,7 @@ eigentlichen
 eigentlicher
 eigentliches
 ein
+einander
 einbaün
 eine
 einem
@@ -542,9 +559,12 @@ einst
 einstmals
 einzelnen
 einzig
+elf
 e-mail
 empfunden
+en
 ende
+endlich
 entgegen
 entlang
 entscheidend
@@ -566,6 +586,7 @@ erhalten
 erhielt
 erhielten
 erneut
+ernst
 eröffne
 eröffnen
 eröffnet
@@ -639,9 +660,14 @@ frei
 freie
 freier
 freies
+früher
 fuer
 fuers
 fünf
+fünfte
+fünften
+fünfter
+fünftes
 für
 fürs
 gab
@@ -691,6 +717,7 @@ gehabt
 gehalten
 gehen
 geht
+gekannt
 gekommen
 gekonnt
 gemacht
@@ -698,6 +725,7 @@ gemaess
 gemäss
 gemeinhin
 gemocht
+gemusst
 genannte
 genannten
 genau
@@ -709,6 +737,7 @@ gerade
 gern
 gerne
 gesagt
+geschweige
 gesehen
 gestern
 gestrige
@@ -732,6 +761,7 @@ ggf.
 gib
 gibt
 gilt
+ging
 gleich
 gleiche
 gleichem
@@ -754,17 +784,25 @@ gleichzeitiges
 glücklicherweise
 gluecklicherweise
 gmbh
+gott
 gottseidank
 gratulieren
 gratuliert
 gratulierte
 groesstenteils
+gross
+grosse
+grossen
+grosser
+grosses
 grösstenteils
 gruendlich
 gründlich
 gut
 gute
 guten
+guter
+gutes
 hab
 habe
 haben
@@ -802,6 +840,7 @@ häufigeren
 häufigerer
 häufigeres
 hauptsächlich
+heisst
 hen
 her
 heraus
@@ -922,6 +961,9 @@ jaehrigem
 jaehrigen
 jaehriger
 jaehriges
+jahr
+jahre
+jahren
 jährig
 jährige
 jährigem
@@ -934,6 +976,8 @@ jeden
 jedenfalls
 jeder
 jederlei
+jedermann
+jedermanns
 jedes
 jedesmal
 jedoch
@@ -984,6 +1028,7 @@ klare
 klaren
 klares
 klein
+kleine
 kleinen
 kleiner
 kleines
@@ -1017,11 +1062,14 @@ kuenftig
 kuerzlich
 kuerzlichst
 künftig
+kurz
 kürzlich
 kürzlichst
 laengst
 lag
 lagen
+lang
+lange
 langsam
 längst
 längstens
@@ -1035,6 +1083,7 @@ legen
 legte
 legten
 leicht
+leide
 leider
 lesen
 letze
@@ -1049,9 +1098,11 @@ letzteres
 letztes
 letztlich
 lichten
+lieber
 liegt
 liest
 links
+los
 mache
 machen
 machst
@@ -1060,6 +1111,7 @@ machte
 machten
 mag
 magst
+mahn
 mal
 man
 manch
@@ -1105,6 +1157,8 @@ meiste
 meisten
 meistens
 meistenteils
+mensch
+menschen
 meta
 mich
 mindestens
@@ -1115,6 +1169,7 @@ mitgleich
 mithilfe
 mithin
 mitnichten
+mittel
 mittels
 mittelst
 mitten
@@ -1123,6 +1178,7 @@ mitunter
 mitwohl
 mochte
 möchte
+mochten
 möchten
 möchtest
 moechte
@@ -1143,6 +1199,7 @@ möglichste
 möglichstem
 möglichsten
 möglichster
+mögt
 momentan
 morgen
 morgige
@@ -1192,6 +1249,10 @@ neuerliches
 neues
 neulich
 neun
+neunte
+neunten
+neunter
+neuntes
 nicht
 nichts
 nichtsdestotrotz
@@ -1233,6 +1294,7 @@ oder
 oefter
 oefters
 off
+offen
 offenkundig
 offenkundige
 offenkundigem
@@ -1252,6 +1314,7 @@ oftmals
 ohne
 ohnedies
 online
+ordnung
 paar
 partout
 per
@@ -1282,6 +1345,10 @@ reagieren
 reagiert
 reagierte
 recht
+rechte
+rechten
+rechter
+rechtes
 rechts
 regelmäßig
 reichlich
@@ -1295,6 +1362,7 @@ restlosem
 restlosen
 restloser
 restloses
+richtig
 richtiggehend
 richtiggehende
 richtiggehendem
@@ -1306,6 +1374,7 @@ rund
 rundheraus
 rundum
 runter
+sache
 sage
 sagen
 sagt
@@ -1313,10 +1382,12 @@ sagte
 sagten
 sagtest
 sagtet
+sah
 samt
 sämtliche
 sang
 sangen
+satt
 sattsam
 schätzen
 schätzt
@@ -1325,10 +1396,12 @@ schätzten
 scheinbar
 scheinen
 scheint
+schlecht
 schlechter
 schlicht
 schlichtweg
 schließlich
+schluss
 schlussendlich
 schnell
 schon
@@ -1344,6 +1417,10 @@ schwerlicher
 schwerliches
 schwierig
 sechs
+sechste
+sechsten
+sechster
+sechstes
 sect
 sehe
 sehen
@@ -1391,6 +1468,10 @@ sicher
 sicherlich
 sie
 sieben
+siebente
+siebenten
+siebenter
+siebentes
 siebte
 siehe
 sieht
@@ -1406,6 +1487,7 @@ sofort
 sog
 sogar
 sogleich
+solang
 solange
 solc
 solc hen
@@ -1444,6 +1526,7 @@ sprich
 startet
 startete
 starteten
+startseite
 statt
 stattdessen
 steht
@@ -1457,7 +1540,11 @@ stets
 stieg
 stiegen
 such
+suche
 suchen
+tag
+tage
+tagen
 tages
 tat
 tät
@@ -1470,10 +1557,12 @@ tatsaechlichen
 tatsaechlicher
 tatsaechliches
 tausend
+teil
 teile
 teilen
 teilte
 teilten
+tel
 telefon
 tief
 titel
@@ -1482,6 +1571,7 @@ total
 trage
 tragen
 trägt
+tritt
 trotz
 trotzdem
 trug
@@ -1511,6 +1601,7 @@ uebermorgen
 ueblicherweise
 uebrig
 uebrigens
+uhr
 um
 ums
 umso
@@ -1521,6 +1612,7 @@ unbedingte
 unbedingter
 unbedingtes
 und
+und?
 unerhoert
 unerhoerte
 unerhoertem
@@ -1633,6 +1725,7 @@ usw
 usw.
 vergangen
 vergangene
+vergangenen
 vergangener
 vergangenes
 vermag
@@ -1662,6 +1755,7 @@ versorgten
 versorgtes
 viel
 viele
+vielem
 vielen
 vieler
 vielerlei
@@ -1670,6 +1764,10 @@ vielleicht
 vielmalig
 vielmals
 vier
+vierte
+vierten
+vierter
+viertes
 voellig
 voellige
 voelligem
@@ -1716,7 +1814,9 @@ wachen
 waehrend
 waehrenddessen
 waere
+wahr?
 während
+währenddem
 währenddessen
 wann
 war
@@ -1763,6 +1863,7 @@ wen
 wenig
 wenige
 weniger
+weniges
 wenigstens
 wenn
 wenngleich
@@ -1795,6 +1896,7 @@ wirklichem
 wirklicher
 wirkliches
 wirst
+wissen
 wo
 wobei
 wodurch
@@ -1854,6 +1956,11 @@ zahlreicher
 zB
 zb.
 zehn
+zehnte
+zehnten
+zehnter
+zehntes
+zeit
 zeitweise
 zeitweisem
 zeitweisen
@@ -1902,5 +2009,9 @@ zweifelsfreiem
 zweifelsfreien
 zweifelsfreier
 zweifelsfreies
+zweite
+zweiten
+zweiter
+zweites
 zwischen
 zwölf

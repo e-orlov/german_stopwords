@@ -1,12 +1,3 @@
-; GERMAN STOPWORDS
-; Zusammmengetragen von Marco Götze, Steffen Geyer
-; LAST UPDATE 12/2016
-; Web Stopwords, more information at Source Link below!
-; www.solariz.de
-; Source and more Information: https://solariz.de/de/downloads/6/german-enhanced-stopwords.htm
-; ####
-; Link-Ware; If you use this List somehow please give me a Link to URL mentioned above! Thanks
-; ####
 ab
 aber
 abermaliges
@@ -100,6 +91,7 @@ andern
 andernfalls
 anderr
 anders
+andersherum
 anderst
 anderweitig
 anderweitige
@@ -112,14 +104,17 @@ anerkannte
 anerkannter
 anerkanntes
 anfangen
+anfangs
 anfing
 angefangen
 angesetze
 angesetzt
 angesetzten
 angesetzter
+anhand
 ans
 anscheinend
+anschließend
 ansetzen
 ansonst
 ansonsten
@@ -199,6 +194,7 @@ been
 befahl
 befiehlt
 befiehlte
+befindet
 befohlene
 befohlens
 befragen
@@ -305,6 +301,7 @@ brauchen
 braucht
 bräuchte
 bringen
+bringt
 bsp
 bsp.
 bspw
@@ -314,6 +311,8 @@ bzw.
 ca
 ca.
 circa
+cookie
+d.h
 da
 dabei
 dadurch
@@ -343,12 +342,14 @@ danke
 danken
 dann
 dannen
+dar
 daran
 darauf
 daraus
 darf
 darfst
 darin
+darstellt
 darüber
 darüberhinaus
 darueber
@@ -357,9 +358,9 @@ darum
 darunter
 das
 daß
-dass
 dasselbe
 Dat
+datenschutz
 davon
 davor
 dazu
@@ -377,6 +378,7 @@ demgemaess
 demgemäss
 demnach
 demselben
+demzufolge
 den
 denen
 denkbar
@@ -535,11 +537,13 @@ einseitigen
 einseitiger
 einst
 einstmals
+einzelnen
 einzig
 empfunden
 ende
 entgegen
 entlang
+entscheidend
 entsprechend
 entsprechende
 entsprechendem
@@ -575,6 +579,7 @@ ersteren
 ersterer
 ersteres
 erstes
+erstmals
 es
 etc
 etc.
@@ -598,6 +603,7 @@ fall
 falls
 fand
 fast
+fax
 ferner
 fertig
 finde
@@ -612,6 +618,7 @@ folgender
 folgendermassen
 folgendes
 folglich
+folgt
 for
 fordern
 fordert
@@ -687,6 +694,8 @@ gemaess
 gemäss
 gemeinhin
 gemocht
+genannte
+genannten
 genau
 genommen
 genug
@@ -694,6 +703,7 @@ gepriesener
 gepriesenes
 gerade
 gern
+gerne
 gesagt
 gesehen
 gestern
@@ -767,6 +777,7 @@ haeufigerer
 haeufigeres
 halb
 hallo
+hält
 halten
 hast
 hat
@@ -786,11 +797,13 @@ häufigere
 häufigeren
 häufigerer
 häufigeres
+hauptsächlich
 hen
 her
 heraus
 herein
 herum
+herzlich
 heute
 heutige
 heutigem
@@ -799,6 +812,7 @@ heutiger
 heutiges
 hier
 hierbei
+hierfür
 hiermit
 hiesige
 hiesigem
@@ -818,6 +832,7 @@ hinterher
 hinterm
 hintern
 hinunter
+hinzu
 hoch
 höchst
 höchstens
@@ -855,6 +870,7 @@ immerwährender
 immerwährendes
 immerzu
 important
+impressum
 in
 indem
 indessen
@@ -936,6 +952,9 @@ jenseitigem
 jenseitiger
 jenseits
 jetzt
+jeweilige
+jeweiligen
+jeweils
 jung
 junge
 jungem
@@ -989,6 +1008,7 @@ konntest
 könntest
 konntet
 könntet
+kontakt
 kuenftig
 kuerzlich
 kuerzlichst
@@ -1002,7 +1022,9 @@ langsam
 längst
 längstens
 lassen
+lässt
 laut
+lautet
 lediglich
 leer
 legen
@@ -1086,6 +1108,7 @@ mir
 mit
 miteinander
 mitgleich
+mithilfe
 mithin
 mitnichten
 mittels
@@ -1116,6 +1139,7 @@ möglichste
 möglichstem
 möglichsten
 möglichster
+momentan
 morgen
 morgige
 muessen
@@ -1135,9 +1159,11 @@ nacher
 nachher
 nachhinein
 nächste
+nächsten
 nacht
 naechste
 naemlich
+nahezu
 nahm
 nämlich
 naturgemaess
@@ -1294,6 +1320,7 @@ schätzte
 schätzten
 scheinbar
 scheinen
+scheint
 schlechter
 schlicht
 schlichtweg
@@ -1401,6 +1428,7 @@ sonstigem
 sonstiger
 sonstwo
 sooft
+sorgt
 soviel
 soweit
 sowie
@@ -1408,6 +1436,7 @@ sowieso
 sowohl
 später
 spielen
+sprich
 startet
 startete
 starteten
@@ -1441,6 +1470,7 @@ teile
 teilen
 teilte
 teilten
+telefon
 tief
 titel
 toll
@@ -1448,6 +1478,7 @@ total
 trage
 tragen
 trägt
+trotz
 trotzdem
 trug
 tun
@@ -1667,6 +1698,7 @@ von
 vor
 voran
 vorbei
+vorerst
 vorgestern
 vorher
 vorherig
@@ -1734,10 +1766,13 @@ wer
 werde
 werden
 werdet
+wesentlich
 weshalb
 wessen
 weswegen
 wichtig
+wichtige
+wichtigsten
 wie
 wieder
 wiederum
@@ -1747,6 +1782,7 @@ wieviele
 wievieler
 wiewohl
 will
+willkommen
 willst
 wir
 wird
@@ -1806,6 +1842,7 @@ wurdet
 würdet
 www
 x
+z.b
 z.B.
 zahlreich
 zahlreichem
@@ -1844,13 +1881,16 @@ zur
 zurück
 zurueck
 zusammen
+zusätzlich
 zusehends
 zuviel
 zuviele
 zuvieler
+zuvor
 zuweilen
 zwanzig
 zwar
+zwecks
 zwei
 zweifelsfrei
 zweifelsfreie
